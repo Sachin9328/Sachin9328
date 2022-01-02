@@ -12,7 +12,6 @@
 [<img align="left" alt="Sachin9328 | Instagram" width="22px" src="./youtube.svg" />][youtube]
 
 <br>
-<br>
 
 ### **I love designing websites and UIs which are user-friendly and helps the community!**
 
