@@ -79,3 +79,6 @@ I like gaming, movies, reading, all things narrative and also love to create!
 [instagram]: https://www.instagram.com/sachinj28939/
 [youtube]: https://www.youtube.com/c/MementoStreams
 
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
