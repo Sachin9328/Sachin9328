@@ -31,7 +31,7 @@ I like gaming, movies, reading, all things narrative and also love to create!
 - [Align Website](https://the-aasha-initiative.github.io/) - Mental Health Support Group Website
 - [Tip Calculator App](https://sachin9328.github.io/tip-calculator-app/)
 
-
+---
 
 ### GitHub Stats
 
@@ -41,6 +41,7 @@ I like gaming, movies, reading, all things narrative and also love to create!
 
 [![Sachin Jadhav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SJ2893)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
 ### My Stack
 
@@ -80,6 +81,8 @@ I like gaming, movies, reading, all things narrative and also love to create!
 [linkedin]: www.linkedin.com/in/sachinjadhav2893
 [instagram]: https://www.instagram.com/sachinj28939/
 [youtube]: https://www.youtube.com/c/MementoStreams
+
+---
 
 ### ⚡ Recent Activity
 
