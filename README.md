@@ -31,7 +31,7 @@ I like gaming, movies, reading, all things narrative and also love to create!
 - [Align Website](https://the-aasha-initiative.github.io/) - Mental Health Support Group Website
 - [Tip Calculator App](https://sachin9328.github.io/tip-calculator-app/)
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid red"> </hr>
 
 ### GitHub Stats
 
