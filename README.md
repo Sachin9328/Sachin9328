@@ -32,16 +32,6 @@ I like gaming, movies, reading, all things narrative and also love to create!
 
 ---
 
-### GitHub Stats
-
-![Sachin Jadhav's github stats](https://github-readme-stats-zeta-navy.vercel.app/api?username=Sachin9328&show_icons=true&theme=github_dark&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin9328&theme=github_dark)
-
-[![Sachin Jadhav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SJ2893)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### My Stack
 
 #### Languages:
@@ -76,6 +66,16 @@ I like gaming, movies, reading, all things narrative and also love to create!
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+### GitHub Stats
+
+![Sachin Jadhav's github stats](https://github-readme-stats-zeta-navy.vercel.app/api?username=Sachin9328&show_icons=true&theme=github_dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin9328&theme=github_dark)
+
+[![Sachin Jadhav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SJ2893)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: www.linkedin.com/in/sachinjadhav2893
 [instagram]: https://www.instagram.com/sachinj28939/
