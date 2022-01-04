@@ -75,7 +75,7 @@ I like gaming, movies, reading, all things narrative and also love to create!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin9328&theme=github_dark)
 
-[![Sachin Jadhav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SJ2893&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Sachin Jadhav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SJ2893&layout=compact&hide=yaml)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: www.linkedin.com/in/sachinjadhav2893
 [instagram]: https://www.instagram.com/sachinj28939/
