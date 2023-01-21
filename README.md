@@ -71,7 +71,7 @@ I like gaming, movies, reading, all things narrative and also love to create!
 
 ### GitHub Stats
 
-![Sachin Jadhav's github stats](https://github-readme-stats-zeta-navy.vercel.app/api?username=Sachin9328&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
+![Sachin Jadhav's github stats](https://github-readme-stats-w8os.vercel.app/api?username=Sachin9328&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin9328&theme=github_dark)
 
